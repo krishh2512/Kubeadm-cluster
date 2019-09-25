@@ -8,7 +8,7 @@ A script to create Kubeadm cluster in Ubuntu.
 Usage:
 Download the script using wget:
 
-wget https://github.com/krishh2512/Kubeadm-cluster/blob/master/kubeadm.sh
+wget https://raw.githubusercontent.com/krishh2512/Kubeadm-cluster/master/kubeadm.sh
 
 Then run the script with following format:
 
