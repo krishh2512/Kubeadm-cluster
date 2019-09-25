@@ -6,11 +6,15 @@ When you want to test out a small application, or create a development environme
 A script to create Kubeadm cluster in Ubuntu.
 
 Usage:
-Download the script using wget:
+1. Download the script using wget:
 
 wget https://raw.githubusercontent.com/krishh2512/Kubeadm-cluster/master/kubeadm.sh
 
-Then run the script with following format:
+2. Make it executable by
+
+chmod +x kubeadm.sh
+
+3. Then run the script with following format:
 
 ./kubeadm.sh
 
