@@ -15,7 +15,7 @@ fi
 echo "Turning off the swap, if there is any"
 
 swapoff -a
-set -e
+set -e # exit with nonzero exit code if anything fails
 echo "Installing Docker.."
 apt-get update
 apt-get install -y docker.io
