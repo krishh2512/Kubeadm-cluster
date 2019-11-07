@@ -16,5 +16,5 @@ Usage:
 
 3. Then run the script with following format:
 
-```./kubeadm.sh```
+```sh kubeadm.sh```
 
